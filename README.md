@@ -45,10 +45,19 @@ Found a better way to transform the data? Want to share your solution? Feel free
 
 Happy transforming! 💡
 
+---
+
+## 📚 License
+
+This project is open for educational and non-commercial use.
+Open the file [License](LICENSE.md) for more details.
+
+---
+
 ## 📬 Stay Connected
 
-If you enjoyed this challenge or found it helpful, feel free to **follow me on LinkedIn** for more data projects, tips, and learning resources:
+If you enjoyed this challenge or found it helpful, follow me on LinkedIn for more data projects, tips, and learning resources:  
 
-🔗 [Follow me on LinkedIn](https://www.linkedin.com/in/outmanbaz)
+🔗 [Follow me on LinkedIn](https://www.linkedin.com/in/outmanbaz/)
 
 Let’s connect and grow together in the world of data! 🚀
