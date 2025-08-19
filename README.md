@@ -4,7 +4,6 @@ Welcome to the **Power Query Challenge**! This repository is designed to test an
 
 Each dataset contains hidden issues—your task is to **detect problems**, **transform the data**, and **reproduce the expected results** shown in the accompanying image.
 
----
 
 ## 🎯 Challenge Overview
 
@@ -20,7 +19,6 @@ This challenge is ideal for:
 - Interview preparation
 - Anyone who loves solving real-world data puzzles
 
----
 
 ## 💡 Tips for Success
 
@@ -29,7 +27,6 @@ This challenge is ideal for:
 - Think like an analyst: What story is the data trying to tell?
 - Document your steps for learning or sharing
 
----
 
 ## 🚀 Getting Started
 
@@ -45,14 +42,12 @@ Found a better way to transform the data? Want to share your solution? Feel free
 
 Happy transforming! 💡
 
----
 
 ## 📚 License
 
 This project is open for educational and non-commercial use.
 Open the file [License](LICENSE.md) for more details.
 
----
 
 ## 📬 Stay Connected
 
