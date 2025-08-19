@@ -1,4 +1,4 @@
-# DA4U-Power Query Data Transformation Challenge
+# DA4U Power Query Data Transformation Challenge
 
 Welcome to the **Power Query Challenge**! This repository is designed to test and sharpen your data wrangling skills using **Power BI's Power Query Editor**.
 
