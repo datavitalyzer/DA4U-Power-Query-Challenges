@@ -22,16 +22,6 @@ This challenge is ideal for:
 
 ---
 
-## 🚀 How to Get Started
-
-1. Open Power BI Desktop.
-2. Load the dataset using **Power Query Editor**.
-3. Investigate and clean the data.
-4. Apply transformations to match the expected result.
-5. Compare your output with the PNG image.
-
----
-
 ## 💡 Tips for Success
 
 - Don’t trust the data—**explore it thoroughly**
