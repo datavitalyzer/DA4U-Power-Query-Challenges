@@ -2,7 +2,7 @@
 
 Welcome to the **Power Query Challenge**! This repository is designed to test and sharpen your data wrangling skills using **Power BI's Power Query Editor**.
 
-Each dataset contains hidden issues—your task is to **detect problems**, **transform the data**, and **reproduce the expected results** shown in the accompanying image.
+Each dataset contains hidden issues, your task is to **detect problems**, **transform the data**, and **reproduce the expected results** shown in the accompanying image.
 
 
 ## 🎯 Challenge Overview
