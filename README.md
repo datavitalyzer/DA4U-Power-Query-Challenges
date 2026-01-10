@@ -51,7 +51,7 @@ Open the file [License](LICENSE.md) for more details.
 
 ## 📬 Stay Connected
 
-If you enjoyed this challenge or found it helpful, follow me on LinkedIn for more data projects, tips, and learning resources:  
+If you enjoyed this challenge or found it helpful, consider giving it a ⭐ or following for updates and follow me on LinkedIn for more data projects, tips, and learning resources:  
 
 🔗 [Follow me on LinkedIn](https://www.linkedin.com/in/outmanbaz/)
 
